@@ -1,4 +1,4 @@
-name: Test Project
+name: First Test Case
 on: push
 jobs:
   test:
